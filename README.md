@@ -38,6 +38,10 @@
 [![Manish Thakur GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishthakur1297&count_private=true&show_icons=true&theme=nightowl)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Manishthakur1297&langs_count=10)]
+=======
+![Manish Thakur GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishthakur1297&count_private=true&show_icons=true&theme=nightowl)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Manishthakur1297&langs_count=10)
 
 [twitter]: https://twitter.com/_MjThakur
 [instagram]: https://www.instagram.com/mj.thakur/
