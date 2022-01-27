@@ -33,9 +33,11 @@
 
 ---
 
-### :zap: GitHub Stats
+### :fire: My Stats
 
-![Manish Thakur GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishthakur1297&count_private=true&show_icons=true&theme=nightowl)
+<!-- ![Manish Thakur GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishthakur1297&count_private=true&show_icons=true&theme=nightowl) -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manishthakur1297&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Manishthakur1297&langs_count=8)
 
