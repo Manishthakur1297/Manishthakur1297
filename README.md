@@ -1,6 +1,6 @@
 ### Hi there, I'm Manish Thakur 👋 
 
-## I'm a Software Developer and Learner!!
+## I'm a Software Developer and Learner!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open source projects
