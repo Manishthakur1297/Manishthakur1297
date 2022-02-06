@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open source projects
+---
 
 ### Connect with me:
 
@@ -27,19 +28,19 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
 <br />
 
 ---
 
-### :fire: My Stats
+## My Stats📈
+<p align="center">
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Manishthakur1297&theme=nightowl&hide_border=true" alt="Manishthakur1297" />
+<img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=Manishthakur1297&langs_count=4&hide=Jupyter%20Notebook,SCSS,PHP,CSS" alt="Manishthakur1297" />
+</p>
 
-<!-- ![Manish Thakur GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishthakur1297&count_private=true&show_icons=true&theme=nightowl) -->
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manishthakur1297&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Manishthakur1297&langs_count=8&hide=Jupyter%20Notebook,SCSS)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manishthakur1297&theme=material-palenight)
 
 [twitter]: https://twitter.com/_MjThakur
 [instagram]: https://www.instagram.com/mj.thakur/
