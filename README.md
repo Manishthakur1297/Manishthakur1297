@@ -1,4 +1,4 @@
-### Hi there, I'm Manish Thakur 👋 
+### Hi, I'm Manish Thakur 👋 
 
 ## I'm a Software Developer and Learner!
 
