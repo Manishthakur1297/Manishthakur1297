@@ -40,8 +40,6 @@
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manishthakur1297&theme=material-palenight)
-
 [twitter]: https://twitter.com/_MjThakur
 [instagram]: https://www.instagram.com/mj.thakur/
 [linkedin]: https://www.linkedin.com/in/manishthakur1/
