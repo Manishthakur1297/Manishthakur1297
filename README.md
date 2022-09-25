@@ -31,7 +31,7 @@
 <br />
 
 ---
-
+<!---
 ## My Stats📈
 <p align="center">
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Manishthakur1297&theme=nightowl&hide_border=true" alt="Manishthakur1297" />
@@ -39,7 +39,7 @@
 </p>
 
 ---
-
+-->
 [twitter]: https://twitter.com/_MjThakur
 [instagram]: https://www.instagram.com/mj.thakur/
 [linkedin]: https://www.linkedin.com/in/manishthakur1/
